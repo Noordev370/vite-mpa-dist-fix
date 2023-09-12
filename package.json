@@ -8,10 +8,10 @@
     "build": "tsc",
     "prettier": "prettier src --write"
   },
-  "homepage": "",
+  "homepage": "https://github.com/Noordev370",
   "repository": {
     "type": "git",
-    "url": "will be added"
+    "url": "https://github.com/Noordev370/vite-mpa-dist-fix"
   },
   "keywords": [
     "vite",
