@@ -52,5 +52,4 @@ async function main() {
   fixFileLinks("./index.html");
 }
 
-// TODO: call it only when executed from cmd and ignore when imported
 main();
